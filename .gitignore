@@ -14,7 +14,7 @@ runs/
 outputs/
 
 # Datasets
-datasets/
+../datasets/
 
 # Weights
 *.pt
