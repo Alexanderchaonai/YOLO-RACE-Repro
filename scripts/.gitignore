@@ -1,0 +1,30 @@
+```gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+../../.idea/
+.vscode/
+
+# Training outputs
+runs/
+outputs/
+
+# Datasets
+datasets/
+
+# Weights
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
