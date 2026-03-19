@@ -1,0 +1,3 @@
+conda activate yolorace310
+cd C:\Users\LEGION\PycharmProjects\YOLO-RACE-Reproduction\YOLO-RACE
+conda env export > environment.yml
